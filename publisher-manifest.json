@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f171d574b683d64dbb4eff67",
+  "owner": "bduacmety",
+  "repo": "page-12c73a0011b322399a0f64b9",
+  "title": "绝绝子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12c73a0011b322399a0f64b9",
+      "a": "绝绝子",
+      "b": "2027最新官网",
+      "entity": "绝绝子",
+      "brand": "绝绝子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b210b8e24984c39c0098207de8e47a6fb7c770dfa4b2bfb2aa86ab43edc2dd83",
+      "content": {
+        "primary_entity": "绝绝子",
+        "keyword1": "绝绝子",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅周期与套餐对比展开：基础版适合三台以内的轻量使用，旗舰版覆盖五台设备并优化游戏专线，团队版面向二十台设备的高带宽场景。按年付可降低月均成本，订阅配置依照各客户端文档完成即可。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "绝绝子为不同设备数量和流量需求提供基础版、旗舰版与团队版三档订阅。三档均支持流媒体解锁与多设备在线，旗舰版侧重游戏专线加速，团队版提供高带宽与定制路由，可按年付进一步控制成本。",
+          "AI_VISUAL_TITLE": "多设备订阅套餐",
+          "AI_HIGHLIGHT_1": "三档流量按月 100GB 起",
+          "AI_HIGHLIGHT_2": "设备数覆盖 3 至 20 台",
+          "AI_HIGHLIGHT_3": "年付方案月均更省",
+          "AI_FEATURES_INTRO": "按设备数量、流量需求与订阅周期三个维度选择版本，可以减少不必要的支出。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，先统计手机、平板与电脑的总数。",
+          "AI_FEATURE_TITLE_2": "流量与场景",
+          "AI_FEATURE_TEXT_2": "100GB 适合文档浏览，300GB 兼顾视频与游戏，1000GB 可支撑多人的日常高带宽使用。",
+          "AI_FEATURE_TITLE_3": "周期与成本",
+          "AI_FEATURE_TEXT_3": "年付基础版 ¥150，旗舰版 ¥350，团队版 ¥850，折合每月低于按月支付的价格。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对订阅链接的导入方式不一样，客户端以设备实际可安装的版本为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850，流量与设备数随版本递增。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确定版本，再核对设备与流量，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "确定版本",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月大致流量，对照基础版、旗舰版、团队版的额度做初步筛选。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认设备系统是否支持所选客户端，并留意套餐允许的同时在线设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按对应客户端的文档说明完成导入，并检查节点是否能正常连接。",
+          "AI_CLOSING_TITLE": "选对版本更省心",
+          "AI_CLOSING_TEXT": "从设备数量与流量需求出发，选出适合当前使用场景的套餐版本。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人手机加电脑共3台设备，每月100GB流量满足日常浏览与标清视频；如有游戏加速或多设备同时在线需求，旗舰版更合适。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB、5台设备，带IPLC专线游戏加速与全节点流媒体解锁；团队版每月1000GB、20台设备，走VIP高带宽节点，多设备协作优先选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，在套餐权益内连接数量不会额外扣减。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版年付¥150、旗舰版年付¥350、团队版年付¥850，均相当于按月付十个月计算，长期使用可以优先考虑年付方案。",
+          "AI_FAQ_ANSWER_5": "选择基础、旗舰或团队版后，完成付费并获取订阅链接，再按设备系统对应的客户端文档导入即可，具体步骤以客户端内说明为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版主要区别在哪里？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量可以增加吗？",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_5": "购买后如何开始使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kmjhy.cn",
+    "host": "kmjhy.cn"
+  },
+  "file_hashes": {
+    "index.html": "545afba9abe640c2ae2f6f1f2fb691b87c1991a06f79989ef64bf55fb526215e",
+    "sitemap.xml": "99a2ad7182d8176df0d6430fd66eb2f42fe60ed2180db47434fbe19b23e72357",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "242e4936cd70b977ed67e4dd27603794c4a932e92b878347489ccd13ac3fd61f",
+    "robots.txt": "7eb54e8c4ee57d6c95c0737a739c64a027818bb9ad55d891295d332b2d6c176c",
+    "75d6942b500ceab10e4cfe2db1ed361f.txt": "c707bf11beef0a31bea7d3270621b473d118ae1f3993a670d16b0b40fcd187db"
+  },
+  "revision": "2d994c393f144d21930d1d621d0c69a2ebbfc11b1763527a5ed96d811cc18faf"
+}
